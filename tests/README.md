@@ -80,3 +80,4 @@ tests/cases/rewrite/keep-core-judgment/
 - `rewrite/keep-core-judgment`：测试改稿模式下保留核心判断
 - `rewrite/reduce-ai-tone`：测试改稿模式下减少模板腔和 AI 腔
 - `rewrite/compress-length`：测试改稿模式下压缩冗余、提升信息密度
+- `rewrite/reduce-verbosity`：测试改稿模式下消除重复兜圈和解释性铺垫

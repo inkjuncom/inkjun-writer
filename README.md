@@ -65,6 +65,7 @@
 - `rewrite/reduce-ai-tone`
 - `draft/from-outline`
 - `outline/opinion-article`
+- `rewrite/reduce-verbosity`
 
 新增测试时，直接复制 `tests/templates/case/` 最省事。
 
